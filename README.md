@@ -4,7 +4,7 @@ This repo contains one test written in Cypress.
 
 ## Help + Testing
 
-The steps below will take you all the way through Cypress. It is assumed you have nothing installed except for node + git.
+The steps below will take you all the way through this repo. It is assumed you have node and git installed.
 
 **If you get stuck, here is more help:**
 
