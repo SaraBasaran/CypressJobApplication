@@ -1,11 +1,9 @@
 {
   "name": "CypressJobApplication",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Cypress test photo upload application for a tailored t-shirt application",
   "scripts": {
-    "cytest": "npx cypress open",
-    "test": "npx cypress run --browser chrome"
+    "cytest": "npx cypress open"
   },
   "repository": {
     "type": "git",

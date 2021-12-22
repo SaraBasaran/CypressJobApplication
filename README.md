@@ -1,6 +1,9 @@
 # Cypress Job Application
 
-This repo contains one test written in Cypress.
+This is a photo upload application for a tailored t-shirt application. In this example, we will consider that a t-shirt can be customized on 2 variations:
+* Color - the color of the t-shirt.
+* Fabric - the type of cloth used.
+* A variable number of Images can be uploaded for each combination of Color+Fabric.
 
 ## Help + Testing
 
@@ -25,8 +28,6 @@ npm install
 ## run cypress
 npm run cytest
 ```
-
-The `npm run test` script will start testing all tests inside the integration folder with no interface.
 
 ### 2. Cypress Interface
 
