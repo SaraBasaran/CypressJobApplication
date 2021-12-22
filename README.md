@@ -5,6 +5,9 @@ This is a photo upload application for a tailored t-shirt application. In this e
 * Fabric - the type of cloth used.
 * A variable number of Images can be uploaded for each combination of Color+Fabric.
 
+See the application running here [App Link](https://testertest.77diamondstest.com/)
+
+
 ## Help + Testing
 
 The steps below will take you all the way through this repo. It is assumed you have node and git installed.
@@ -12,6 +15,7 @@ The steps below will take you all the way through this repo. It is assumed you h
 **If you get stuck, here is more help:**
 
 * [Cypress Docs](https://on.cypress.io)
+
 
 ### 1. Clone this repo
 
