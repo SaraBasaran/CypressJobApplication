@@ -1,0 +1,24 @@
+{
+  "name": "CypressJobApplication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cytest": "npx cypress open",
+    "test": "npx cypress run --browser chrome"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/77Diamonds/CypressJobApplication.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/77Diamonds/CypressJobApplication/issues"
+  },
+  "homepage": "https://github.com/77Diamonds/CypressJobApplication#readme",
+  "devDependencies": {
+    "cypress": "^9.2.0"
+  }
+}

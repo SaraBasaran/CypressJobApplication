@@ -1,0 +1,7 @@
+{
+  "baseUrl": "https://testertest.77diamondstest.com/",
+  "chromeWebSecurity": false,
+  "uncaught": "exception",
+  "screenshotOnRunFailure": false,
+  "video": false
+}
