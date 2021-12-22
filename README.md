@@ -14,10 +14,10 @@ The steps below will take you all the way through Cypress. It is assumed you hav
 
 ```bash
 ## clone this repo to a local directory
-git clone https://github.com/77Diamonds/website-tests.git
+git clone https://github.com/77Diamonds/CypressJobApplication.git
 
 ## cd into the cloned repo
-cd website-tests
+cd CypressJobApplication
 
 ## install the node_modules
 npm install
