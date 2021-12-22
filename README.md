@@ -10,23 +10,20 @@ See the application running here [App Link](https://testertest.77diamondstest.co
 
 ## Help + Testing
 
-The steps below will take you all the way through this repo. It is assumed you have node and git installed.
-
-**If you get stuck, here is more help:**
-
-* [Cypress Docs](https://on.cypress.io)
+The steps below will take you all the way through this repo. It is assumed you have node js installed.
 
 
-### 1. Clone this repo
+### 1. Download this project
+
+In the taskbar above, click on the "Code" button, then "Download ZIP".
+
+Save the project folder on your computer and open the CMD inside that folder. 
+
+Use the following commands:
 
 ```bash
-## clone this repo to a local directory
-git clone https://github.com/77Diamonds/CypressJobApplication.git
 
-## cd into the cloned repo
-cd CypressJobApplication
-
-## install the node_modules
+## install the project
 npm install
 
 ## run cypress
@@ -42,3 +39,7 @@ you can easily run all tests just by clicking `Run integration spec` or by click
 ### 3. Creating new tests
 
 create new tests inside integration folder make sure it ends with `.spec.js`
+
+**If you get stuck with cypress, check the documentation here:**
+
+* [Cypress Docs](https://on.cypress.io)
