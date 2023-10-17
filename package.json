@@ -1,0 +1,22 @@
+{
+  "name": "CypressJobApplication",
+  "version": "1.0.0",
+  "description": "Cypress test photo upload application for a tailored t-shirt application",
+  "scripts": {
+    "cytest": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/77Diamonds/CypressJobApplication.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/77Diamonds/CypressJobApplication/issues"
+  },
+  "homepage": "https://github.com/77Diamonds/CypressJobApplication#readme",
+  "devDependencies": {
+    "cypress": "^9.2.0"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "baseUrl": "",
+  "chromeWebSecurity": false,
+  "uncaught": "exception",
+  "screenshotOnRunFailure": false,
+  "video": false
+}
